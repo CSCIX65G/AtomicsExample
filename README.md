@@ -1,2 +1,3 @@
 # AtomicsExample
-Demonstration of the use of Swift-Atomics
+
+A description of this package.
